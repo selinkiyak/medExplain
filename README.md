@@ -30,9 +30,27 @@ Bu proje, medikal eğitimi desteklemek için yapay zekâ teknolojilerini erişil
 Sprint 1
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+
 Sprint board update: Sprint board screenshot:
+![Sprint Board](Ekran_Resmi_2025-07-04_23-24-07.png)
+
+Sprint Review:
+Alınan kararlar:
+Streamlit arayüzü temel haliyle oluşturuldu ve görüntü yükleme özelliği çalışır durumda.
+Model entegrasyonu yapıldı, "normal" ve "anormal" sınıflandırması test edildi.
+Dummy açıklama fonksiyonu geliştirildi ve gösteriliyor.
+GitHub reposu oluşturuldu, README dosyası hazırlandı.
+Eksikler ve geliştirilmesi gereken noktalar not edildi.
+
+Sprint Retrospective:
+Takım rollerinde düzenleme yapılmış ve Scrum Master değişikliği gerçekleştirilmiştir.
+Takım içindeki görev dağılımının daha net ve dengeli olması gerektiği kararlaştırılmıştır.
+Gelecek sprintlerde tüm takım üyelerinin daha aktif ve katılımcı olması gerektiğine vurgu yapılmıştır.
+
 
 
 
