@@ -1,5 +1,6 @@
 Takım İsmi:
 grup93
+
 Takım elemanları:
 Selinay kıyak: Scrum master/ Product Owner/Developer
 Nur şirin atsızelti:Developer
