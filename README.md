@@ -37,7 +37,8 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
 
 Sprint board update: Sprint board screenshot:
-![Sprint Board](Ekran%20Resmi%202025-07-04%2023%2E24%2E07.png)
+![Sprint Board](Ekran Resmi 2025-07-04 23.59.03.png)
+
 
 Sprint Review:
 Alınan kararlar:
