@@ -43,11 +43,12 @@ Sprint board update: Sprint board screenshot:
 
 Sprint Review:
 Alınan kararlar:
-Streamlit arayüzü temel haliyle oluşturuldu ve görüntü yükleme özelliği çalışır durumda.
-Model entegrasyonu yapıldı, "normal" ve "anormal" sınıflandırması test edildi.
-Dummy açıklama fonksiyonu geliştirildi ve gösteriliyor.
-GitHub reposu oluşturuldu, README dosyası hazırlandı.
-Eksikler ve geliştirilmesi gereken noktalar not edildi.
+Model eğitimi için temel veri ön işleme ve eğitim kodu hazırlandı.
+Xception modeli üzerinde eğitim başladı, doğruluk testleri yapılmak üzere.
+Tahmin fonksiyonları geliştirilip kod üzerinde test ediliyor.
+GitHub reposu oluşturuldu, README dosyası güncellendi.
+Arayüz yerine tüm işlemler doğrudan kod üzerinden yürütülecek.
+Eksikler ve sonraki sprintlerde yapılacak işler detaylandırıldı.
 
 Sprint Retrospective:
 Takım rollerinde düzenleme yapılmış ve Scrum Master değişikliği gerçekleştirilmiştir.
