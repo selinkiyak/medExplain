@@ -5,6 +5,7 @@ Takım elemanları:
 Selinay kıyak: Scrum master/ Product Owner/Developer
 Nur şirin atsızelti:Developer
 Burak sarıçiçek:Developer
+Seymen Bugay:Developer
 
 Ürün İsmi:
 medExplain
