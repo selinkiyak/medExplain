@@ -30,6 +30,8 @@ Juriye Not:
 Bu proje, medikal eğitimi desteklemek için yapay zekâ teknolojilerini erişilebilir ve görsel bir şekilde sunmayı hedeflemektedir. Amacımız, kullanıcıya yalnızca teknik bir sonuç değil, aynı zamanda karar verme sürecini besleyecek açıklayıcı bir yorum sunmaktır. MedExplain, hem öğrenen hem de öğreten için güçlü bir dijital asistan olabilir. MVP olarak çalışan bir prototip geliştirilmiş, sonraki sprintlerde daha gelişmiş özellikler eklenmesi planlanmaktadır.
 
 Sprint 1
+Sprint Notu: Bu sprintte en büyük zorluk, grup üyelerini bir araya getirmek ve net bir proje konusu belirlemekti. Görev dağılımı yaparken herkesin yetkinliklerine uygun şekilde işi bölmek zaman aldı. Ayrıca tüm iletişim sosyal medya (WhatsApp) üzerinden yürütüldüğü için zamanlama ve ulaşılabilirlik konusunda zorluklar yaşandı.
+Tüm bu problemler, ekip üyelerinin sabırlı ve kararlı işbirliğiyle çözüldü. Sonuç olarak görev paylaşımı sağlandı, proje konusu netleştirildi ve ilk adımlar atıldı.
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
