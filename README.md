@@ -46,6 +46,8 @@ Sprint board update: Sprint board screenshot:
 
 Ürün Durumu: Ekran görüntüleri:
 Akciğer Xrayi için veriseti araştırması yapılmıştır. Nih Chest veriseti kullanılacaktır.
+![NİHCHEST](Ekran%20Resmi%202025-07-07%2013.52.05.png)
+
 
 Sprint Review:
 Alınan kararlar:
