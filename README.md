@@ -36,7 +36,9 @@ Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
-![Whatsapp](WhatsApp%20Image%202025-07-07%20at%2013.37.34.jpeg)
+![Whatsapp1](WhatsApp%20Image%202025-07-07%20at%2013.37.34.jpeg)
+![whatsapp2](WhatsApp%20Image%202025-07-07%20at%2013.28.40.jpeg)
+
 
 
 Sprint board update: Sprint board screenshot:
