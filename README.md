@@ -44,7 +44,8 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 Sprint board update: Sprint board screenshot:
 ![Sprint Board](Ekran%20Resmi%202025-07-04%2023.59.03.png)
 
-
+Ürün Durumu: Ekran görüntüleri:
+Akciğer Xrayi için veriseti araştırması yapılmıştır. Nih Chest veriseti kullanılacaktır.
 
 Sprint Review:
 Alınan kararlar:
