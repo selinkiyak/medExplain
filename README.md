@@ -91,11 +91,44 @@ link: https://trello.com/b/88GCRWEo/medexplain-sprint-1
 
 
 Ürün Durumu: Ekran görüntüleri:
-....
+Bu projede, akciğer X-ray görüntülerini sınıflandırmak amacıyla Google Colab ortamında Xception modeli kullandık. İlk olarak, veri setine kolayca erişebilmek için Google Drive’ı Colab’a bağladık. Ardından TensorFlow ve Keras kütüphanelerini içe aktardık ve görüntü verilerini hazırlamak ile modeli oluşturmak için gerekli bileşenleri yükledik. Görsellerin piksel değerlerini normalize ettik, veri artırma (augmentation) teknikleri uygulayarak modelin genelleme yeteneğini artırdık ve verinin %20’sini doğrulama (validation) amacıyla ayırdık.
+Model kısmında, ImageNet veri kümesiyle önceden eğitilmiş Xception tabanlı modeli yükledik ve üst katmanlarını çıkararak transfer öğrenme yöntemi uyguladık. Modelin çıkış katmanına küresel ortalama havuzlama, dropout ve sigmoid aktivasyon fonksiyonuna sahip bir Dense katman ekledik. Böylece modelimiz, giriş görsellerini “NORMAL” ya da “PNEUMONIA” olarak sınıflandırabilecek şekilde tasarlandı. Ana modelin katmanlarını dondurarak sadece yeni eklenen katmanların eğitilmesini sağladık. Modelimizi Adam optimizasyon algoritması ve binary crossentropy kayıp fonksiyonu ile derleyip, doğruluk metriği ile değerlendirdik.
+Eğitim sürecinde modeli belirlediğimiz epoch sayısı boyunca eğitim ve doğrulama veri setlerinde çalıştırdık. Eğitim tamamlandıktan sonra test verileri üzerinde doğruluk ve kayıp değerlerini ölçerek performansını değerlendirdik. Son olarak, eğitilen modeli .h5 formatında Google Drive’a kaydederek ileride yeniden kullanıma hazır hale getirdik.
+
+![Sprint 2 - 1](Ekran%20Resmi%202025-07-19%2023.04.22.png)
+
+![Sprint 2 - 2](Ekran%20Resmi%202025-07-19%2023.04.26.png)
+
+![Sprint 2 - 3](Ekran%20Resmi%202025-07-19%2023.04.30.png)
+
+![Sprint 2 - 4](Ekran%20Resmi%202025-07-19%2023.04.47.png)
+
+İlk aşamada modeli 30 epoch boyunca eğittikten sonra, doğruluk oranını artırmak amacıyla aynı modeli 50 epoch boyunca yeniden eğitilmiştir.
+
+![Sprint 2 - 5](Ekran%20Resmi%202025-07-19%2023.07.10.png)
+
+![Sprint 2 - 6](Ekran%20Resmi%202025-07-19%2023.07.13.png)
+
 
 
 Sprint Review:
 Alınan kararlar:
 
+Xception modeli için eğitim kodu başarıyla geliştirildi ve Google Colab ortamında çalıştırıldı.
+Eğitim süreci hem 30 hem de 50 epoch olarak ayrı ayrı yapılarak doğruluk performansı karşılaştırıldı.
+Veri artırma (augmentation) teknikleri veri setine uygulandı, modelin genelleme kabiliyeti artırıldı.
+Transfer öğrenme yöntemi kullanılarak, önceden eğitilmiş Xception modelinin üst katmanları donduruldu ve yeni katmanlar eğitildi.
+Modelin eğitim, doğrulama ve test aşamalarındaki performansı detaylı şekilde raporlandı.
+Model eğitimi sonrası .h5 formatında kaydedilerek tekrar kullanım için hazır hale getirildi.
+Veri yönetimi Google Drive ile senkronize edildi ve eğitim verilerine erişim kolaylaştırıldı.
+Daily Scrum toplantıları zamanlama sorunları nedeniyle WhatsApp üzerinden devam ettirildi.
+Sprint backlog'unda yer alan 100 puanlık iş başarıyla tamamlandı.
+Proje ilerleyişi ve sprint süreci boyunca ekip içi işbirliği etkin şekilde sürdürüldü.
 
 Sprint Retrospective:
+Eğitim sürecinde yaşanan uzun bekleme süreleri ve kaynak kullanımı konularında iyileştirme gerekliliği fark edilmiştir.
+Takım içi iletişim ve koordinasyon WhatsApp üzerinden sağlanmasına rağmen, daha verimli ve zamanında bilgi akışı için alternatif yöntemler araştırılması önerilmiştir.
+Model eğitimi ve veri hazırlama aşamalarında görev dağılımı büyük oranda dengeli gerçekleşmiş ancak bazı üyelerin yükü diğerlerine göre daha fazla olduğu gözlemlenmiştir.
+Gelecek sprintte, eğitilen modellerin kapsamlı şekilde test edilmesi ve performanslarının karşılaştırılması planlanmaktadır.
+Takım üyelerinin motivasyonunu ve katılımını artırmak için düzenli geribildirim ve kısa toplantıların önemi vurgulanmıştır.
+
