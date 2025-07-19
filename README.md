@@ -68,5 +68,29 @@ Takım içindeki görev dağılımının daha net ve dengeli olması gerektiği 
 Gelecek sprintlerde tüm takım üyelerinin daha aktif ve katılımcı olması gerektiğine vurgu yapılmıştır.
 
 
+Sprint 2 
+Sprint Notu:
+Bu sprintte en büyük zorluk, Xception modeli için doğru ve eksiksiz bir eğitim kodu hazırlamak oldu. Modeli Google Colab ortamında çalıştırırken uzun eğitim süreleriyle karşılaşıldı. Bu yüzden hem 30 epoch hem de 50 epoch için ayrı ayrı eğitim yapılarak doğruluk oranını artırmaya odaklanıldı.
+Veri Google Drive üzerinden bağlanarak yönetildi, veri artırma (augmentation) teknikleri kullanıldı ve modelin önceden eğitilmiş katmanları dondurularak transfer öğrenme uygulandı. Eğitimin ardından model test edilerek başarı oranı kontrol edildi ve sonuçlar raporlandı.
+Bu sprintte öğrenilen en önemli konu, yüksek epoch sayısının eğitim süresini ciddi şekilde uzatması ve modelin doğruluk değerine etkisinin dikkatli takip edilmesi gerektiğiydi. Tüm bu süreç grup üyelerinin işbirliğiyle başarıyla tamamlandı.
 
 
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+
+Sprint board update: Sprint board screenshot:
+link: https://trello.com/b/88GCRWEo/medexplain-sprint-1
+....
+
+Ürün Durumu: Ekran görüntüleri:
+....
+
+
+Sprint Review:
+Alınan kararlar:
+
+
+Sprint Retrospective:
