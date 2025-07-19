@@ -11,12 +11,12 @@ Seymen Bugay:Developer
 medExplain
 
 Ürün Açıklaması:
-MedExplain, akciğer X-ray görüntülerini analiz ederek bunları "normal" ya da "anormal" olarak sınıflandıran ve ardından bu sonuca dayalı, tıbbi bir açıklamayı doğal dilde sunan yapay zekâ destekli bir eğitim aracıdır. Kullanıcı sisteme bir X-ray görseli yükler, sistem bu görüntüyü değerlendirir ve kullanıcıya hem sınıflandırma sonucunu hem de anlaşılır bir açıklamayı birlikte sunar.
+MedExplain, akciğer X-ray görüntülerini analiz ederek bunları "normal" ya da "Zatürre" olarak sınıflandıran ve ardından bu sonuca dayalı, tıbbi bir açıklamayı doğal dilde sunan yapay zekâ destekli bir eğitim aracıdır. Kullanıcı sisteme bir X-ray görseli yükler, sistem bu görüntüyü değerlendirir ve kullanıcıya hem sınıflandırma sonucunu hem de anlaşılır bir açıklamayı birlikte sunar.
 
 Ürün Özellikleri:
 Kullanıcı dostu Streamlit arayüzü
 X-ray görüntü yükleme ve analiz imkânı
-Hazır bir sınıflandırma modeliyle "normal / anormal" tahmini
+Hazır bir sınıflandırma modeliyle "normal / zatürre" tahmini
 Sonuca göre oluşturulan açıklayıcı doğal dil çıktısı
 Gelecekte geliştirilebilir: OpenAI API entegrasyonu, hasta geçmişi karşılaştırması, model eğitim modülü
 
