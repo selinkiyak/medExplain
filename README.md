@@ -80,6 +80,10 @@ Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+![Sprint Ekranı 1](Ekran%20Resmi%202025-07-19%2022.51.52.png)
+
+![Sprint Ekranı 2](Ekran%20Resmi%202025-07-19%2022.52.13.png)
+
 
 Sprint board update: Sprint board screenshot:
 link: https://trello.com/b/88GCRWEo/medexplain-sprint-1
