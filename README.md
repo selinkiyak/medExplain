@@ -87,7 +87,8 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 
 Sprint board update: Sprint board screenshot:
 link: https://trello.com/b/88GCRWEo/medexplain-sprint-1
-....
+![Sprint 2 Board](Ekran%20Resmi%202025-07-19%2023.02.00.png)
+
 
 Ürün Durumu: Ekran görüntüleri:
 ....
