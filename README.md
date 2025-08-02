@@ -154,6 +154,8 @@ link: https://trello.com/b/88GCRWEo/medexplain-sprint-1
 
 Ürün Durumu: Ekran görüntüleri:
 Ürün, Sprint 3 sonunda tamamen çalışır duruma getirilmiştir. Bu sprintte, daha önce eğitilen Xception modeli Google Colab ortamında yüklenmiş ve örnek X-ray test görselleriyle doğrulama yapılmıştır. Model, yüklenen test görsellerini “NORMAL” veya “PNEUMONIA” olarak sınıflandırmış ve tahmin skorları başarıyla çıktılanmıştır. Böylece, MedExplain projesinin temel amacı olan akciğer grafilerinin sınıflandırılması ve doğrulama süreci başarıyla tamamlanmıştır. Test süreci sonunda modelin doğruluk ve performans değerleri gözlemlenmiş, proje tamamlanmaya hazır hale gelmiştir. Tüm adımlar Google Drive entegrasyonu üzerinden yürütülmüş ve proje çıktıları saklanmıştır. Elde edilen sonuçlar, MedExplain’in temel bir prototip olarak çalıştığını ve sonraki geliştirmelere açık olduğunu göstermektedir.
+![Ekran Resmi 1](Ekran%20Resmi%202025-08-02%2019.13.28.png)
+![Ekran Resmi 2](Ekran%20Resmi%202025-08-02%2019.13.31.png)
 
 
 
