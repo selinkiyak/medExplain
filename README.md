@@ -134,3 +134,26 @@ Model eğitimi ve veri hazırlama aşamalarında görev dağılımı büyük ora
 Gelecek sprintte, eğitilen modellerin kapsamlı şekilde test edilmesi ve performanslarının karşılaştırılması planlanmaktadır.
 Takım üyelerinin motivasyonunu ve katılımını artırmak için düzenli geribildirim ve kısa toplantıların önemi vurgulanmıştır.
 
+Sprint 3
+
+Sprint Notları
+Bu sprintte en büyük zorluk, önceki sprintlerde eğitilen her iki Xception modelinin (30 epoch ve 50 epoch) test aşamasında ne kadar doğru tahmin yaptığını karşılaştırmak ve bu sonuçları yorumlamaktı. Google Colab ortamında test kodları hazırlandı ve örnek X-ray görselleriyle tahminler gerçekleştirildi. Tahmin sonuçlarının doğru yorumlanması, test görsellerinin doğru hazırlanması ve skorların analiz edilmesi ekip için dikkat gerektiren bir süreç oldu. Tüm bu test süreci, grup üyelerinin iş birliğiyle yürütüldü ve her iki modelin performansı başarıyla karşılaştırıldı. Böylece, projenin temel hedefi doğrulukla yerine getirilmiş oldu.
+
+Tahmin Edilen Tamamlanacak Puan: 100 Puan.
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+
+Sprint board update: Sprint board screenshot:
+link: https://trello.com/b/88GCRWEo/medexplain-sprint-1
+
+Ürün Durumu: Ekran görüntüleri:
+Ürün, Sprint 3 sonunda tamamen çalışır duruma getirilmiştir. Bu sprintte, daha önce eğitilen Xception modeli Google Colab ortamında yüklenmiş ve örnek X-ray test görselleriyle doğrulama yapılmıştır. Model, yüklenen test görsellerini “NORMAL” veya “PNEUMONIA” olarak sınıflandırmış ve tahmin skorları başarıyla çıktılanmıştır. Böylece, MedExplain projesinin temel amacı olan akciğer grafilerinin sınıflandırılması ve doğrulama süreci başarıyla tamamlanmıştır. Test süreci sonunda modelin doğruluk ve performans değerleri gözlemlenmiş, proje tamamlanmaya hazır hale gelmiştir. Tüm adımlar Google Drive entegrasyonu üzerinden yürütülmüş ve proje çıktıları saklanmıştır. Elde edilen sonuçlar, MedExplain’in temel bir prototip olarak çalıştığını ve sonraki geliştirmelere açık olduğunu göstermektedir.
+
+
+Sprint Review:
+Alınan kararlar:
+
+
+Sprint Retrospective:
