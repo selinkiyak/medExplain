@@ -136,7 +136,7 @@ Takım üyelerinin motivasyonunu ve katılımını artırmak için düzenli geri
 
 Sprint 3
 
-Sprint Notları
+Sprint Notları:
 Bu sprintte en büyük zorluk, önceki sprintlerde eğitilen her iki Xception modelinin (30 epoch ve 50 epoch) test aşamasında ne kadar doğru tahmin yaptığını karşılaştırmak ve bu sonuçları yorumlamaktı. Google Colab ortamında test kodları hazırlandı ve örnek X-ray görselleriyle tahminler gerçekleştirildi. Tahmin sonuçlarının doğru yorumlanması, test görsellerinin doğru hazırlanması ve skorların analiz edilmesi ekip için dikkat gerektiren bir süreç oldu. Tüm bu test süreci, grup üyelerinin iş birliğiyle yürütüldü ve her iki modelin performansı başarıyla karşılaştırıldı. Böylece, projenin temel hedefi doğrulukla yerine getirilmiş oldu.
 
 Tahmin Edilen Tamamlanacak Puan: 100 Puan.
