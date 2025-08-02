@@ -154,10 +154,16 @@ link: https://trello.com/b/88GCRWEo/medexplain-sprint-1
 
 Ürün Durumu: Ekran görüntüleri:
 Ürün, Sprint 3 sonunda tamamen çalışır duruma getirilmiştir. Bu sprintte, daha önce eğitilen Xception modeli Google Colab ortamında yüklenmiş ve örnek X-ray test görselleriyle doğrulama yapılmıştır. Model, yüklenen test görsellerini “NORMAL” veya “PNEUMONIA” olarak sınıflandırmış ve tahmin skorları başarıyla çıktılanmıştır. Böylece, MedExplain projesinin temel amacı olan akciğer grafilerinin sınıflandırılması ve doğrulama süreci başarıyla tamamlanmıştır. Test süreci sonunda modelin doğruluk ve performans değerleri gözlemlenmiş, proje tamamlanmaya hazır hale gelmiştir. Tüm adımlar Google Drive entegrasyonu üzerinden yürütülmüş ve proje çıktıları saklanmıştır. Elde edilen sonuçlar, MedExplain’in temel bir prototip olarak çalıştığını ve sonraki geliştirmelere açık olduğunu göstermektedir.
+![Sprint 3 Board - 1](Ekran%20Resmi%202025-08-02%2019.12.29.png)
+
+![Sprint 3 Board - 2](Ekran%20Resmi%202025-08-02%2019.13.28.png)
+
 
 
 Sprint Review:
 Alınan kararlar:
+Bu sprintte, eğitilen Xception modelleri (30 ve 50 epoch) başarıyla test edildi ve her iki modelin sonuçları karşılaştırılarak doğruluk performansları analiz edildi. Test aşamasında model çıktılarının güvenilirliği ölçüldü, doğruluk ve kayıp değerleri detaylı şekilde raporlanarak proje çıktıları belgelendi. Tüm geliştirme, test ve raporlama işlemleri planlandığı gibi tamamlandı ve proje başarıyla bitirildi. Son olarak, gerekli tüm dosyalar GitHub reposuna yüklendi ve README dosyası güncellenerek proje teslim hazır hale getirildi.
 
 
 Sprint Retrospective:
+Bu sprintte, test aşamasında farklı epoch sonuçlarının karşılaştırılması ekip için önemli bir deneyim ve öğrenme süreci oldu. Veri yönetimi, test kodlarının hazırlanması ve sonuçların raporlanması aşamalarında ekip uyum içinde çalışarak süreci sorunsuz yürüttü. Önceki sprintlere göre ekip içi iletişim daha düzenli ve hızlı şekilde sağlandı. Tüm grup üyeleri aktif rol alarak görevlerini zamanında tamamladı ve proje planlanan sürede başarıyla sonuçlandırıldı. Gelecek projelerde, model eğitimi ve test süreçlerinin daha verimli ilerlemesi için otomasyon ve zaman planlamasının daha da güçlendirilmesi gerektiği vurgulandı.
